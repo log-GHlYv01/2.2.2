@@ -4,15 +4,15 @@ public class Truck extends MultiWheeledTransport implements Serviceble{
     }
 
     private void updateTyre() {
-        System.out.println("Меняем покрышку");
+        System.out.println("Меняем покрышку грузовую");
     }
 
     private void checkEngine() {
-        System.out.println("Проверяем двигатель");
+        System.out.println("Проверяем двигатель грузовой");
     }
 
     private void checkTrailer() {
-        System.out.println("Проверяем прицеп");
+        System.out.println("Проверяем прицеп грузовой");
     }
 
     @Override
