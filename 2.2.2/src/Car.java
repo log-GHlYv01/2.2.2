@@ -4,11 +4,11 @@ public class Car extends MultiWheeledTransport implements Serviceble {
     }
 
     private void updateTyre() {
-        System.out.println("Меняем покрышку");
+        System.out.println("Меняем легковую покрышку ");
     }
 
     private void checkEngine() {
-        System.out.println("Проверяем двигатель");
+        System.out.println("Проверяем двигатель легковой ");
     }
 
     @Override

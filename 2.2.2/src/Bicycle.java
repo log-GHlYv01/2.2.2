@@ -4,7 +4,7 @@ public class Bicycle extends MultiWheeledTransport implements Serviceble{
     }
 
     private void updateTyre() {
-            System.out.println("Меняем покрышку");
+            System.out.println("Меняем покрышку байка ");
         }
 
     @Override

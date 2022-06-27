@@ -24,4 +24,5 @@ public abstract class  MultiWheeledTransport {
     }
 
     public abstract void check();
+
 }
